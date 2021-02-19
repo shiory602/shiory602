@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/shiori-suzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shiori-suzuki" height="30" width="40" /></a>
 <a href="https://twitter.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shiory602" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shiorisuzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shiorisuzuki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shiorisuzuki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shiorisuzuki" height="30" width="40" /></a>
 <a href="https://instagram.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiory602" height="30" width="40" /></a>
 </p>
 
