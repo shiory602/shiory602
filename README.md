@@ -1,15 +1,15 @@
-<h1 align="left">Hi 👋, I'm Shiori Suzuki</h1>
+<h1 align="left">Hi 👋, I'm Shiori Suzuki from Nagoya</h1>
 <h3 align="left">A passionate frontend developer based in Vancouver</h3>
 
 - 🔭 I’m currently studying at [CICCC](https://ciccc.ca/)
 
-- 🌱 I’m currently learning **JavaScript, PHP, and web design**
+- 🌱 I’m learning **JavaScript, web design, English and also French**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiory602/portfolio.git](https://github.com/shiory602/portfolio.git)
 
-- 📫 How to reach me **suzushioufo@gmail.com**
+- 📫 How to reach me **https://twitter.com/shiory602**
 
-- ⚡ Fun fact **travel, cooking, reading, cats**
+- ⚡ Fun fact **travel, sweets, books, cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
