@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shiori Suzuki from Nagoya</h1>
+<h1 align="left">Hi 👋, I'm Shiori Suzuki</h1>
 <h3 align="left">A passionate frontend developer based in Vancouver</h3>
 
 - 🔭 I’m currently studying at [CICCC](https://ciccc.ca/)
