@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiory602/portfolio.git](https://github.com/shiory602/portfolio.git)
 
-- 📫 How to reach me **https://twitter.com/shiory602**
+- 📫 How to reach me [@shiory602](https://twitter.com/shiory602)
 
 - ⚡ Fun fact **travel, sweets, books, cats**
 
