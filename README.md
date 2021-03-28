@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **Programming, web design, English and also French**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shiory602/portfolio.git](https://github.com/shiory602/portfolio.git)
+- 👨‍💻 All of my projects are available at [https://shiory602.github.io/portfolio/](https://github.com/shiory602/portfolio.git)
 
 - 📫 How to reach me [@shiory602](https://twitter.com/shiory602)
 
