@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently studying at [CICCC](https://ciccc.ca/)
 
-- 🌱 I’m learning **JavaScript, web design, English and also French**
+- 🌱 I’m learning **Programming, web design, English and also French**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiory602/portfolio.git](https://github.com/shiory602/portfolio.git)
 
 - 📫 How to reach me [@shiory602](https://twitter.com/shiory602)
 
-- ⚡ Fun fact **travel, sweets, books, cats**
+- ⚡ Fun fact **travel, food, books, yoga, cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
