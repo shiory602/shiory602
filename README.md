@@ -37,8 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en" alt="shiory602" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&" alt="shiory602" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiory602&label=Profile%20views&color=94ffb4&style=flat" alt="shiory602" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
