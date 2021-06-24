@@ -9,9 +9,9 @@
 </p>
 
 Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver. I'm currently studying at [CICCC](https://ciccc.ca/).
-I’m learning **Programming, web design, English and also French**. All of my projects are available at [https://shiory602.github.io/portfolio/](https://shiory602.github.io/portfolio/).
+I’m learning **Programming, web design, English and also French**. All of my projects are available here or at (My portfolio)[https://shiory602.github.io/portfolio/](https://shiory602.github.io/portfolio/).
 
-- 📫 How to reach me [@shiory602](https://twitter.com/shiory602)
+- 📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
 - ⚡ Fun fact **travel, food, books, yoga, cats**
 
 <h3 align="left">Languages and Tools:</h3>
