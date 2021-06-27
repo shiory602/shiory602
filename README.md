@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋</h1>
+<h1 align="left">Hi, there 👋</h1>
 <p align="left">
 <a href="https://codepen.io/shiori-suzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shiori-suzuki" height="30" width="30" /></a>
 <a href="https://twitter.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shiory602" height="30" width="30" /></a>
@@ -8,11 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=shiory602&label=Profile%20views&color=94ffb4&style=flat" alt="shiory602" />
 </p>
 
-Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver. I'm currently studying at [CICCC](https://ciccc.ca/).
+Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver.
 I’m learning **Programming, web design, English and also French**. All of my projects are available here or at [My portfolio](https://shiory602.github.io/portfolio/).
 
+## About me :)
+- 🧑‍💻  Currently studying as a student at [CICCC](https://ciccc.ca/).
+- 💓  Love for Traveling and Cooking.
+- 🛠️  Coding since 2021
+- 👨‍👩‍👧‍👧  Living in Vancouver and moving out to Montreal or Quebec in my future.
 - 📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
-- ⚡ Fun fact **travel, food, books, yoga, cats**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -27,11 +31,13 @@ I’m learning **Programming, web design, English and also French**. All of my p
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact" alt="shiory602" /></p>
+<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact" alt="shiory602" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en" alt="shiory602" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&" alt="shiory602" /></p>
 
