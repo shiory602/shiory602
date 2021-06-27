@@ -12,11 +12,11 @@ Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver.
 I’m learning **Programming, web design, English and also French**. All of my projects are available here or at [My portfolio](https://shiory602.github.io/portfolio/).
 
 ## About me :)
-- 🧑‍💻  Currently studying as a student at [CICCC](https://ciccc.ca/).
-- 💓  Love for Traveling and Cooking.
-- 🛠️  Coding since 2021
-- 👨‍👩‍👧‍👧  Living in Vancouver and moving out to Montreal or Quebec in my future.
-- 📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
+  🧑‍💻  Currently studying as a student at [CICCC](https://ciccc.ca/).
+  💓  Love for Traveling and Cooking.
+  🛠️  Coding since 2021
+  👨‍👩‍👧‍👧  Living in Vancouver and moving out to Montreal or Quebec in my future.
+  📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,13 +31,13 @@ I’m learning **Programming, web design, English and also French**. All of my p
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 </p>
 
-<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+<h3 align="left"> &nbsp;GitHub Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact" alt="shiory602" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="shiory602" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en" alt="shiory602" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en&theme=nightowl" alt="shiory602" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nightowl"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&" alt="shiory602" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&theme=nightowl" alt="shiory602" /></p>
 
