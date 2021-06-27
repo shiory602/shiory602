@@ -33,11 +33,11 @@ I’m learning **Programming, web design, English and also French**. All of my p
 
 <h3 align="left"> &nbsp;GitHub Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="shiory602" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="shiory602" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&theme=nightowl" alt="shiory602" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en&theme=nightowl" alt="shiory602" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nightowl"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&theme=nightowl" alt="shiory602" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shiory602" alt="shiory602" /></p>
 
