@@ -16,7 +16,7 @@ I’m learning **Programming, web design, English and also French**. All of my p
   🧑‍💻  Currently studying as a student at [CICCC](https://ciccc.ca/). <br />
   💓  Love for Traveling and Cooking. <br />
   🛠️  Coding since 2021 <br />
-  👨‍👩‍👧‍👧  Living in Vancouver and moving out to Montreal or Quebec in my future. <br />
+  🏡  Living in Vancouver and moving out to Montreal or Quebec in my future. <br />
   📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
 
 <h3 align="left">Languages and Tools:</h3>
