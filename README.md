@@ -4,7 +4,8 @@
 <a href="https://twitter.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shiory602" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/shiorisuzuki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shiorisuzuki" height="30" width="30" /></a>
 <a href="https://instagram.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiory602" height="30" width="30" /></a>
-<a href="https://medium.com/@shiory602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shiory602" height="30" width="30" /></a>
+<a href="https://medium.com/@shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shiory602" height="30" width="30" /></a>
+  
   <img src="https://komarev.com/ghpvc/?username=shiory602&label=Profile%20views&color=94ffb4&style=flat" alt="shiory602" />
 </p>
 
