@@ -13,10 +13,10 @@ Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver.
 I’m learning **Programming, web design, English and also French**. All of my projects are available here or at [My portfolio](https://shiory602.github.io/portfolio/).
 
 ## About me :)
-  🧑‍💻  Currently studying as a student at [CICCC](https://ciccc.ca/).
-  💓  Love for Traveling and Cooking.
-  🛠️  Coding since 2021
-  👨‍👩‍👧‍👧  Living in Vancouver and moving out to Montreal or Quebec in my future.
+  🧑‍💻  Currently studying as a student at [CICCC](https://ciccc.ca/). <br />
+  💓  Love for Traveling and Cooking. <br />
+  🛠️  Coding since 2021 <br />
+  👨‍👩‍👧‍👧  Living in Vancouver and moving out to Montreal or Quebec in my future. <br />
   📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
 
 <h3 align="left">Languages and Tools:</h3>
