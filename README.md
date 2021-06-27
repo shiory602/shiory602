@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=shiory602&label=Profile%20views&color=94ffb4&style=flat" alt="shiory602" />
 </p>
 
-Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver.
+Hi, I'm Shiori Suzuki a passionate frontend developer based in Vancouver. <br />
 All of my projects are available here or at [My portfolio](https://shiory602.github.io/portfolio/).
 
 ## About me :)
