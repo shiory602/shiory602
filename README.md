@@ -37,7 +37,7 @@ All of my projects are available here or at [My portfolio](https://shiory602.git
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiory602&theme=nightowl" alt="shiory602" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en&theme=nightowl" alt="shiory602" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiory602&show_icons=true&locale=en&theme=nightowl" alt="shiory602" /> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiory602&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="shiory602" />
 </p>
 
