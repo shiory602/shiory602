@@ -1,24 +1,24 @@
 <h1 align="left">Hi, there 👋</h1>
 <p align="left">
 <a href="https://codepen.io/shiori-suzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shiori-suzuki" height="30" width="30" /></a>
-<a href="https://twitter.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shiory602" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/shiorisuzuki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shiorisuzuki" height="30" width="30" /></a>
-<a href="https://instagram.com/shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiory602" height="30" width="30" /></a>
+<a href="https://twitter.com/2147otamat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="2147otamat" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shiorisoma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shiorisoma" height="30" width="30" /></a>
+<a href="https://instagram.com/wadxd_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wadxd_s" height="30" width="30" /></a>
 <a href="https://medium.com/@shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shiory602" height="30" width="30" /></a>
   
   <img src="https://komarev.com/ghpvc/?username=shiory602&label=Profile%20views&color=94ffb4&style=flat" alt="shiory602" />
 </p>
 
-Hi, I'm <b>Shiori Suzuki</b> a passionate frontend developer based in Vancouver. <br />
+Hi, I'm <b>Shiori Soma</b> a passionate frontend developer. <br />
 All of my projects are available here or at [My portfolio](https://shiory602.github.io/portfolio/).
 
 ## About me :)
   🎓  A student at [CICCC](https://ciccc.ca/). <br />
-  🧑‍💻  Currently learing GitHub / React.js / Web design. <br />
+  🧑‍💻  Currently learing Web design and marketing at SHElikes. <br />
   💓  Love for Traveling and Cooking. <br />
   🛠️  Coding since 2020 <br />
-  🏡  Living in Vancouver and moving out to Montreal or Quebec in my future. <br />
-  📫 How to reach me, message me on [Twitter](https://twitter.com/shiory602)
+  🏡  Living in Nagoya and moving out abroad soon. <br />
+  📫 How to reach me, message me on [Twitter](https://twitter.com/2147otamat)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
