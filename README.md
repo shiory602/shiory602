@@ -18,7 +18,7 @@ All of my projects are available here or at [My portfolio](https://shiory602.git
   💓  Love for Traveling and Cooking. <br />
   🛠️  Coding since 2020 <br />
   🏡  Living in Nagoya and moving out abroad soon. <br />
-  📫 How to reach me, message me on [Twitter](https://twitter.com/2147otamat)
+  📫 How to reach me, message me on [Twitter](https://twitter.com/shiorysm)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
