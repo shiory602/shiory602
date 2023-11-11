@@ -1,7 +1,7 @@
 <h1 align="left">Hi, there 👋</h1>
 <p align="left">
 <a href="https://codepen.io/shiori-suzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shiori-suzuki" height="30" width="30" /></a>
-<a href="https://twitter.com/shiorysm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="shiorysm" height="30" width="30" /></a>
+<a href="https://twitter.com/shiorysm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/X.svg" alt="shiorysm" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/shiorisoma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/shiorisoma" height="30" width="30" /></a>
 <a href="https://instagram.com/shiorysm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiorysm" height="30" width="30" /></a>
 <a href="https://medium.com/@shiory602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shiory602" height="30" width="30" /></a>
