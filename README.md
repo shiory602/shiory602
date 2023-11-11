@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=shiory602&label=Profile%20views&color=94ffb4&style=flat" alt="shiory602" />
 </p>
 
-Hi, I'm <b>Shiori Soma</b> a passionate frontend developer. <br />
-All of my projects are available here or at [My portfolio](https://shiory602.github.io/portfolio/).
+Hi, I'm <b>Shiori Soma</b> a passionate web designer and frontend developer. <br />
+All of my projects are available here or at [My Portfolio](https://shiory602.github.io/portfolio/).
 
 ## About me :)
   🎓  A student at [CICCC](https://ciccc.ca/). <br />
